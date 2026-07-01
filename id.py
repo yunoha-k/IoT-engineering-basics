@@ -1,1 +1,1 @@
-print("id: xxxxxxx")
+print("id: 12000")
